@@ -42,7 +42,6 @@ public class App extends Application {
             return;
         }
 
-
 //        EMOptions options = new EMOptions();
 //        // 默认添加好友时，是不需要验证的，改成需要验证
 //        options.setAcceptInvitationAlways(false);

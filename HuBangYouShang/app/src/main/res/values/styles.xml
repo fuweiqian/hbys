@@ -367,5 +367,9 @@
         <item name="android:windowIsFloating">true</item>
         <item name="android:windowContentOverlay">@null</item>
     </style>
-
+    <!--标签类文字样式-->
+    <style name="style_text_edit">
+        <item name="android:textSize">@dimen/dimen_14</item>
+        <item name="android:textColor">@color/color_8c</item>
+    </style>
 </resources>
